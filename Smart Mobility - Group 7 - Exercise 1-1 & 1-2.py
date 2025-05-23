@@ -7,16 +7,6 @@
 
 #     PRONELLO Cristina
 
-# Group 7:
-
-#     ALEMIFAR Hesamedin
-#     AMINI NAEINI Pooneh
-#     DINC Alara
-#     MOSLEH KHORRAMI Kamran
-#     OMIDI HOSSEINABADI Arash
-#     RAJABIMEHR Pezhman
-#     SEYED MAHMOUDI KALKHORAN Tara
-#     SHOBEYRI Sayed Emadedin
 
 # # Exercise 1 - Data setup and preliminary analysis
 
